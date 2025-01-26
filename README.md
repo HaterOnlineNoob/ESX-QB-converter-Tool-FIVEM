@@ -6,3 +6,6 @@ ESX to QBCore  &  QBCore to ESX
 
 
 ![Capture](https://github.com/user-attachments/assets/0e251ca7-e5bf-49f8-8984-79107c5a5edf)
+
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
