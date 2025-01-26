@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QB_to_ESX_and_reverse", "QB_to_ESX_and_reverse\QB_to_ESX_and_reverse.csproj", "{6509D3AB-F2E5-4638-823D-73D6515E3955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6509D3AB-F2E5-4638-823D-73D6515E3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6509D3AB-F2E5-4638-823D-73D6515E3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6509D3AB-F2E5-4638-823D-73D6515E3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6509D3AB-F2E5-4638-823D-73D6515E3955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A30AF41C-1620-449F-BEE9-CECE010F3A4A}
+	EndGlobalSection
+EndGlobal
