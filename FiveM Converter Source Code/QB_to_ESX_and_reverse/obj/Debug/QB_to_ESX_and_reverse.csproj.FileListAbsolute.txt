@@ -1,0 +1,9 @@
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\obj\Debug\QB_to_ESX_and_reverse.Form1.resources
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\obj\Debug\QB_to_ESX_and_reverse.Properties.Resources.resources
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\obj\Debug\QB_to_ESX_and_reverse.csproj.GenerateResource.cache
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\obj\Debug\QB_to_ESX_and_reverse.csproj.CoreCompileInputs.cache
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\bin\Debug\Fivem Script Converter.exe.config
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\bin\Debug\Fivem Script Converter.exe
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\bin\Debug\Fivem Script Converter.pdb
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\obj\Debug\Fivem Script Converter.exe
+C:\Users\HaterOnlineNoob\source\repos\QB_to_ESX_and_reverse\QB_to_ESX_and_reverse\obj\Debug\Fivem Script Converter.pdb
